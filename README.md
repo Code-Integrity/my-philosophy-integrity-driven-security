@@ -1,115 +1,85 @@
 # My Philosophy: Integrity-Driven Security 🛡️
 
-> "昨日より今日の自分を比べて、どれだけ進んだか。"
-> _(Compare yourself today only to who you were yesterday, and measure how far you have advanced.)_
+> "Do not measure success by looking at others. Benchmark your current self strictly against who you were yesterday, and audit your incremental growth daily."
 
-Welcome. This repository is not about generic code snippets or setup guides. It is a transparency report of my character, my journey, and the uncompromising philosophy that drives my career as a freelance cybersecurity engineer.
-
----
-
-## 🌟 The Core Manifesto: Choosing Integrity Over Deception
-
-Throughout my life and career, I have witnessed both sides of human nature. I know that there are people in this world who deceive, lie, and betray others for short-term financial gain.
-
-But I also know the antidote. Whenever I faced true adversity, the people who rescued and supported me were those with profound **integrity and love**.
-
-This realization shaped my ultimate life principle: **I choose to align myself exclusively with people of integrity, and I dedicate my skills to protecting those who value honesty.**
-
-I found my passion in programming and cyber tactics. By mastering security, I am not just writing code—I am building a technical shield for honest businesses, visionaries, and communities. For me, pursuing security is the ultimate way to synchronize my passion with my purpose.
-
-> **Show "daily life" to the noise; engrave "truth" in the heights.**
-> _(地上のノイズには「日常」を見せ、空の高度では「真実」を刻む。)_
-> **Body on the ground, soul in the height.**
-> _(身体は地上にあるけれど、魂は常に俯瞰した場所にある。)_
+Welcome. This repository is not a generic collection of code snippets. It is a transparency report of my engineering character, my continuous pivot into cybersecurity, and the uncompromising operational philosophy that drives my career as a freelance SecOps/Cybersecurity engineer.
 
 ---
 
-## 🏥 Chapter 1: 16 Years of Human-Centric Resilience
+## 🌟 The Core Manifesto: Engineering Integrity in an Uncertain World
 
-Before entering cybersecurity, I spent **16 years as a frontline care worker**, supporting individuals with severe physical/mental disabilities and terminal illnesses like ALS.
+In both society and cyberspace, we constantly face entities that compromise long-term safety for short-term financial gain through deception or negligence.
 
-- **The Reality**: I witnessed severe labor shortages and realized that DX and automation are crucial so humans can focus on what only humans can do: empathy and care.
-- **The Security Link**: Security is fundamentally about human behavior. 16 years of understanding deep human psychology, vulnerability, and crisis management gave me an unteachable edge in understanding **Social Engineering** risks and designing human-centric security frameworks.
+My operating principle is simple: **I choose to align myself exclusively with organizations that value absolute integrity, and I dedicate my technical skills to defending them.**
 
----
+For me, cybersecurity is not just a profession—it is a technical discipline where my core values intersect with my technical execution. By mastering defensive engineering, I build robust, zero-trust architectures for businesses that deserve to scale safely.
 
-## ⚡ Chapter 2: Supply Chain & Third-Party Risk Mitigation
-
-In February 2026, I entered an engineering environment to accelerate my transition into software automation. This unexpected setting provided a real-world crucible for threat hunting and risk management.
-
-> **"Don't just be a consumer; be the sovereign of your information."**
-> _(ただの消費者になるな。情報の統治者であれ。)_
-
-1. **Vulnerability Detection**: Conducted an independent audit on the provided development environment and identified an active **supply chain risk**—the curriculum recommended an extension heavily flagged for backdoor and malware injection.
-2. **Risk Communication**: When I formally escalated this risk to management, the response suggested bypassing the warning. Recognizing the threat vector, I rejected the use of compromised tools.
-3. **Architecture Isolation (DevSecOps)**: To safeguard my infrastructure, I utilized AI pair-programming to build a custom validation script, audited the provided Docker templates, and engineered a **fully isolated local sandbox environment**—segregating high-risk Git profiles and network layers from my host OS.
-4. **Strategic Pivot via Intelligence Gathering**: Through open-source intelligence (OSINT) and peer interviews, I identified a systemic decline in the provider's third-party quality control and talent pipeline sustainability.
-
-Realizing the environment no longer aligned with professional standards, I autonomously refocused my roadmap within the final 1.5 months:
-
-- Mastered **100+ advanced labs on PortSwigger Web Security Academy**.
-- Joined **HackerOne VDP**, submitting 3 vulnerability reports and securing my **first valid Triage (CSRF)** within 30 days.
+> **"Filter out the noise at the execution layer; maintain absolute architectural clarity from the heights."**
 
 ---
 
-## 🤖 The AI Chronicles: Investigative Learning Logs
+## 🏥 Chapter 1: 16 Years of Human-Centric Resilience (The Roots of Social Engineering Defense)
 
-The following case studies are verified logs from my earliest days of development, demonstrating how I utilized AI pair-programming not just to write code, but to critically audit architectural integrity and reject low-quality vendor standards.
+Before transitioning into cybersecurity in early 2026, I spent **16 years as a frontline care worker**, managing crisis situations and supporting individuals with severe physical/cognitive challenges and terminal illnesses (such as ALS).
 
-### 🔹 Case Study 1: Architectural Sovereign Design — `return` vs `echo` (PHP)
-
-- **The Observation**: In the initial stages of learning PHP, I noticed the bootcamp's curriculum frequently utilized `echo` inside custom functions to output data immediately to the screen.
-- **My Structural Critique**: I flagged this as an anti-pattern. Executing a direct output inside a function introduces unnecessary **Side Effects**. It strips the calling environment of its data sovereignty, rendering the function un-reusable if the data needs to be piped into an external API, emailed, or modified before rendering.
-- **The AI Dialogue & Breakthrough**: I leveraged AI to cross-reference my intuition with the official PHP Documentation. We verified that "return inside, echo outside" is the objective best practice. By returning values, the function remains a pure, deterministic black box, passing the **Sovereignty of Data** back to the execution layer.
-- **The Integrity Metric**: Even as a beginner, I refused the "as long as it works" shortcut. I refactored all curriculum exercises to enforce strict data decoupling, establishing a foundation for **Secure Coding** and preventing future injection vectors (such as XSS via uncontrolled direct outputs).
-
-> _"Software is for humans. Integrity lives in the details."_
+- **The Automation Matrix**: Witnessing severe operational constraints on the ground made me realize that DX and secure automation are imperative. Automating the mundane allows humans to focus on what systems cannot replicate: empathy and critical thinking.
+- **The Social Engineering Edge**: Cybersecurity is fundamentally a human challenge. 16 years of managing intense human psychology, vulnerability, and systemic risks under pressure gave me a deep, unteachable psychological advantage in **Social Engineering Defense**, human-centric threat modeling, and crisis response.
 
 ---
 
-## 🛠️ My Engineering & Personal Security Standards
+## ⚡ Chapter 2: Supply Chain & Third-Party Risk Mitigation (A Real-World Case)
 
-When you contract with me, you are not just hiring a freelancer. You are partnering with an engineer bound by an uncompromising personal operating system:
+In February 2026, I embedded myself in an intensive engineering ecosystem to accelerate my transition into software automation. This environment quickly became a real-world crucible for threat hunting and proactive risk management.
 
-### 1. Code Craftsmanship
+1. **Vulnerability Identification & Triage**: During an independent infrastructure audit of the provided development stack, I identified an active **supply chain risk**—a recommended environment extension that was flagged globally for potential backdoor vectors and malicious payload injections.
+2. **Defensive Isolation (DevSecOps Practice)**: Prioritizing system integrity, I formally escalated the risk. When external constraints suggested bypassing the warning, I refused to compromise my host environment. Instead, I leveraged AI-assisted code generation to build a custom validation script and engineered a **fully sandboxed, containerized local environment**—completely isolating high-risk third-party assets and Git profiles from my host OS.
+3. **Strategic Pivot to High-Value Targets**: Recognizing that the environment's security posture fell below professional standards, I autonomously refocused my learning matrix within the final 1.5 months of the program:
+   - Mastered **100+ advanced labs on the PortSwigger Web Security Academy**, focusing on server-side flaws and authentication bypass vectors.
+   - Joined the **HackerOne VDP** community, submitting 3 vulnerability reports and securing my **first valid Triage (CSRF)** within 30 days.
 
-- **Software is for humans. Integrity lives in the details.** (ソフトウェアは人が読むためのもの。誠実さは１ミリの余白に宿る。)
-- **Precision is the soul of bug-free code.** (正確さこそが、バグのないコードの魂である。)
-- _Proven by my self-developed **European Banking-Grade Authentication Application**, achieving **100% test coverage** replicating complex failure states._
+---
 
-### 2. Radical Sovereignty & Autonomy
+## 🛠️ Operational & Personal Security Standards
 
-- **"A freelance engineer must be the sovereign of their own craft and code."** (フリーランスエンジニアは、自らの技術とコードの統治者でなければならない。)
-- **Never lean on someone else's rail; build your own flight path.** (誰かのレールに寄りかかるな。自分だけの航路を築け。)
-- **True freedom is born from refining oneself every day.** (真の自由は、日々自らを律し、研ぎ澄ますことから生まれる。)
+When you contract with me, you are partnering with an autonomous engineer bound by a rigorous personal operating system:
+
+### 1. Hardened Code Craftsmanship
+
+- **Integrity lives in the details.** Clean code is readable code. Structural transparency reduces the attack surface.
+- **Precision is the antidote to exploits.**
+- _Demonstrated by my self-developed **European Banking-Grade Authentication Application**, achieving **100% automated test coverage** replicating complex failure states._
+
+### 2. Radical Autonomy & Sovereignty
+
+- **"An engineer must be the absolute sovereign of their own stack and code."**
+- I do not passively rely on unverified vendor templates. I verify, sandbox, and secure every dependency before it enters production.
 
 ### 3. Continuous Integration of the Self
 
-- **The solo Morning Assembly: A ritual for peak performance.** (1人朝礼は、自分というシステムを正常に稼働させるための儀式。)
-  _Every single day, I run a personal sanity check, review threat landscapes, and align my mental architecture to ensure peak engineering output and absolute reliability for my clients._
-
----
-
-## 📬 Let's Build a Secure Future Together
-
-If your organization values technical excellence, relentless self-driven problem solving, and absolute integrity, I am ready to secure your perimeter.
-
-- **GitHub App**: [Link to your banking-grade auth app]
-- **HackerOne**: [Link to your profile if public]
-- **Contact/Inquiries**: [Your Email or LinkedIn]
+- **The Solo Morning Assembly**: Every single day, I run a personal sanity check, review the active global threat landscape, and align my mental architecture. This ritual ensures peak engineering output, predictable delivery, and absolute reliability for my clients.
 
 ---
 
 ## 🤖 The AI Chronicles: Investigative Learning Logs
 
-Rather than processing information passively, I utilized advanced AI pair-programming to critically audit architectural flaws, building a series of technical deep-dives archived here:
+Rather than processing technical concepts passively, I utilize advanced AI pair-programming to critically audit architectural flaws, building a series of technical deep-dives archived here:
 
-- [**Case Study 1: Architectural Sovereign Design (`return` vs `echo`)**](./ai-chronicles/case-study-1.md)
-  _Defeating implementation side-effects and enforcing strict data decoupling in early software engineering._
+- [**Case Study 1: Architectural Data Sovereignty (`return` vs `echo` in PHP)**](./ai-chronicles/case-study-1.md)
+  _Enforcing functional purity, eliminating architectural side effects, and preventing early XSS/injection vectors._
 - [**Case Study 2: Defensive Git Workflows (Branch Protection)**](./ai-chronicles/case-study-2.md)
-  _Rejecting hazardous raw pushing mechanisms to production branches under time and business constraints._
-- [**Case Study 3: AI-Driven Supply Chain Audit (Ollama & Llama 3.2 Scanner)**](./ai-chronics/case-study-3.md)
-  _Building a custom local LLM vulnerability scanner to detect backdoors and unpatched vectors in vendor templates._
+  _Rejecting hazardous direct pushing mechanisms to main/production branches under business velocity constraints._
+- [**Case Study 3: AI-Driven Supply Chain Audit (Ollama & Llama 3.2)**](./ai-chronicles/case-study-3.md)
+  _Orchestrating a local LLM vulnerability scanner to detect backdoors and unpatched vectors in legacy vendor templates._
+
+---
+
+## 📬 Let's Secure Your Perimeter
+
+If your organization values technical precision, relentless self-driven problem solving, and absolute operational integrity, I am ready to secure your assets.
+
+- **Verified Banking-Grade Auth App**: `[https://github.com/Code-Integrity/bank-auth-app]`
+- **HackerOne Profile**: `[]`
+- **Professional Inquiries (LinkedIn)**: `[https://www.linkedin.com/in/haruna-takahashi-9a2723436]`
 
 ---
 
