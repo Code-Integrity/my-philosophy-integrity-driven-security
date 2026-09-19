@@ -39,6 +39,13 @@ In February 2026, I embedded myself in an intensive engineering ecosystem to acc
 
 ---
 
+## 🤝 Collaboration & Adaptability Statement
+
+> **"While I maintain uncompromising security standards for architecture isolation, I operate with high empathy and absolute flexibility when aligning with team operations, communication workflows, and core business goals."**
+> _(環境やアーキテクチャの隔離については妥協のないセキュリティ基準を維持しますが、チームの運用、コミュニケーション、そしてビジネスの核心的な目標に合わせる際は、高い共感性と絶対的な柔軟性を持って行動します。)_
+
+---
+
 ## 🛠️ Operational & Personal Security Standards
 
 When you contract with me, you are partnering with an autonomous engineer bound by a rigorous personal operating system:
@@ -68,7 +75,7 @@ Rather than processing technical concepts passively, I utilize advanced AI pair-
   _Enforcing functional purity, eliminating architectural side effects, and preventing early XSS/injection vectors._
 - [**Case Study 2: Defensive Git Workflows (Branch Protection)**](./ai-chronicles/case-study-2.md)
   _Rejecting hazardous direct pushing mechanisms to main/production branches under business velocity constraints._
-- [**Case Study 3: AI-Driven Supply Chain Audit (Ollama & Llama 3.2)**](./ai-chronicles/case-study-3.md)
+- [**Case Study 3: AI-Driven Supply Chain Audit (Ollama & Llama 3.2)**](./ai-chronics/case-study-3.md)
   _Orchestrating a local LLM vulnerability scanner to detect backdoors and unpatched vectors in legacy vendor templates._
 
 ---
