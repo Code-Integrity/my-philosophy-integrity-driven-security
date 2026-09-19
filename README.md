@@ -84,9 +84,9 @@ Rather than processing technical concepts passively, I utilize advanced AI pair-
 
 If your organization values technical precision, relentless self-driven problem solving, and absolute operational integrity, I am ready to secure your assets.
 
-- **Verified Banking-Grade Auth App**: `[https://github.com/Code-Integrity/bank-auth-app]`
-- **HackerOne Profile**: `[]`
-- **Professional Inquiries (LinkedIn)**: `[https://www.linkedin.com/in/haruna-takahashi-9a2723436]`
+- **Verified Banking-Grade Auth App**: https://github.com/Code-Integrity/bank-auth-app
+- **HackerOne Profile**: https://hackerone.com/code_integrity
+- **Professional Inquiries (LinkedIn)**: https://www.linkedin.com/in/haruna-takahashi-9a2723436
 
 ---
 
